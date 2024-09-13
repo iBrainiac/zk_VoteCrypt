@@ -1,5 +1,5 @@
 A Transparent Voting System
-
+( DEpolyed and verified contract on the lisk sepolia netwrok : 0xffc1735607cdfc7553bd3ff0b9b45863f3a65bc5)
 Our voting DApp aims to provide transparency through the Lisk Blockchain, while also ensuring voter privacy and verifying identities/eligibility. Zero Knowledge & Merkle Proofs  is uniquely positioned to help achieve this.
 
 As an independent decentralized identity platform, Zero Knowledge & Merkle Proofs leverages cryptography without exposing sensitive data. It can validate voter credentials and attributes using zero-knowledge proofs, confirming eligibility for our DApp without compromising a user's privacy.
